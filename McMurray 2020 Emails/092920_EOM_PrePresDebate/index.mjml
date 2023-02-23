@@ -1,0 +1,67 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/nmm092920_fightwithbiden" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          {{FirstName or 'Friend'}},<br /><br />Tonight is the first Presidential debate of this election, and perhaps the most important Presidential debate of our lifetime. There has never been more on the line than there is right now. The likes of Trump and Chris Jacobs want to destroy the things that mean the most to the people of NY-27: our right to good healthcare, protections for the Social Security we’ve earned, insurance approval despite pre-existing conditions, a fair and just court system... the list goes on. <a href="https://secure.actblue.com/donate/nmm092920_fightwithbiden"><strong>They aren’t even trying to hide it. It’s terrifying.</strong></a><br /><br />
+          
+          But that’s why I continue to fight. In 2018, Joe was there for me when I was fighting a pitched battle. When everybody said the corrupt Chris Collins was untouchable, Joe Biden stopped and campaigned for me. I knew immediately that he was a good man, and he helped us move the ball forward. <a href="https://secure.actblue.com/donate/nmm092920_fightwithbiden"><strong>Tonight, I need to make sure that we’re keeping that fighting spirit alive.</strong></a>
+<br /></a></strong>
+
+
+</p>
+          </mj-text>
+  <mj-image width="400px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/Biden1.jpg"></mj-image>
+  
+  <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+    
+    I don’t need to remind you of what’s at stake. We’re fighting for the heart and soul of our country. And on November 4th, with your help, we can send both Joe Biden and myself to Washington to <a href="https://secure.actblue.com/donate/nmm092920_fightwithbiden"><strong>defend, repair, and protect the things that actually make our country great.</strong></a></mj-text>
+    
+<mj-button background-color="#202658" width="450" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="20px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden">Yes! I’ll fight for Joe, Kamala, and Nate →</mj-button>
+
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Together we can win.<br/><b>Nate McMurray</b><br />
+</p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092920_fightwithbiden?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

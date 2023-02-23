@@ -1,0 +1,77 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/nmm101620_seec" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>Our planet is at stake in November. If we are going to build a better future for this generation and the next, there is no time to waste.<br /><br />
+ 
+          <strong>That's why SEEC PAC endorsed Nate and a whole slate of incredible leaders who will act on this issue.</strong> We can't give even an inch. <i>It's essential that we expand our green coalition in the House and continue to push Congress to take up clean energy, climate resiliency, and environmental protections.</i><br /><br />
+ 
+ 
+          <a href="https://secure.actblue.com/donate/nmm101620_seec"><strong>Nate’s part of a team of green leaders that may become Members of Congress, but only with your help. Will you make a contribution in favor of the environment today?</strong></a>
+
+<br />
+          </mj-text>
+<mj-button background-color="#202658" width="400" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="15px" padding-bottom="15px" href="https://secure.actblue.com/donate/nmm101620_seec">Yes! I'll help send Nate to Congress →</mj-button>
+ 
+       
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          This summer Chris Jacobs voted <strong><u>against</u></strong> the Great American Outdoors Act! The widely popular, bipartisan bill passed overwhelmingly and became law in July. It is the biggest funding bill for land conservation and national parks in over 25 years! We’ll never know why Chris voted against it—he’s never held a town hall for you to ask and never explained his vote. Maybe it’s because his family at Delaware North have interests that compete with the national parks?
+
+<br /><br />
+
+          </mj-text>
+        <mj-image width="350px" href="https://secure.actblue.com/donate/nmm101620_seec" width="500px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMM_SEECEndorsement.png"></mj-image>
+
+<mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+  It is going to take <strong><u>work</u></strong> to repair the damage of Donald Trump. We have to rebuild protections for our environment and ensure climate mitigation is a part of those conversations. We have to reinforce the government processes that allow us to protect the American people from reckless pollution and disregard of science and fact.<br /><br />
+ 
+It's going to take a strong green coalition in the House fighting every day to pass comprehensive climate legislation and hold Congress to account as climate change knocks at our door. We’re proud that they believe in our movement to endorse Nate and that when he wins he’ll make the green coalition even stronger! <br /><br />
+ 
+  <strong>That's why SEEC PAC endorsed green leaders like Nate running in close House races around the country. <a href="https://secure.actblue.com/donate/nmm101620_seec">Nate’s ready to act on climate on Day 1-- but first, Nate needs your help to win our races!</strong></a><br /><br />
+
+  <p style="line-height: 1.2;font-size: 16px;">Thank you!<br /><strong>Team McMurray</strong><br/>
+</p><br /><br /></mj-text>
+     
+      
+      </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm101620_seec?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm101620_seec?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm101620_seec?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm101620_seec?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm101620_seec?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm101620_seec?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

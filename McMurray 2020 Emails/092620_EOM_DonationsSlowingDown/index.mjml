@@ -1,0 +1,80 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/mcmurray.republican.emails" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>
+        
+          Mary from Nate’s team here. My personal email ended up on a Trump list. Don’t ask me how. But curiosity got the best of me, and I opened it. I wanted to give you a peek behind the curtain on fundraising. Anyways, take a look at this email. It’s pretty shocking! <br /><br /></p><center><a href="https://secure.actblue.com/donate/mcmurray.republican.emails"><strong>Chip in a few dollars if you’re glad we don’t talk to you the way Trump talks to his donors:</strong></a></center> <br />
+
+          </mj-text>
+      <mj-image width="250px" href="https://secure.actblue.com/donate/mcmurray.republican.emails" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/TrumpDonorKicker.png"></mj-image><br />
+      <mj-text align="center">Sounds a little bit desperate if you ask us...</mj-text>
+        </mj-column>
+    </mj-section>
+   
+  
+     <mj-section padding-top="10px" background-color="#fff" padding-left="20px" padding-bottom="0px">
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px"> 
+       
+         The tone here is so aggressive, just like Trump’s outrageous moves to stifle our democracy. Yikes! One thing that I love about working for Nate in NY-27 is that we’ve got such a strong grassroots base - you drive our work so generously. We hardly have to ask! Thank you. We try to treat you as partners in this work ‘cause we can’t do it without you. No need to shame our supporters.<br /><br />
+
+          <i>But like seriously - are Trump supporters okay? This email wouldn’t make me feel excited - it feels like we’re being yelled at.</i> <br /><br />
+
+          Also, a little finance secret - matched funds are often a fib! We actually have had some donors give a hefty sum and want to double their money - <strong>and we sure do let you know when it happens.</strong> But a 500% match? If they had that much, they wouldn’t need our hard earned dollars!<br /><br />
+
+          We’re seeing Republicans treat regular people just as they do in politics - underestimating them, yelling, and fibbing! I’m so glad we’re not on that side. Democrats, well, we do kindness, dignity, and treating people as equal partners in making this country better. But we also fight like hell for the things we believe in, and that takes funds. <a href="https://secure.actblue.com/donate/mcmurray.republican.emails"><strong>{{FirstName or 'Friend'}}, can I count on you to help us win? We don’t have corporate donors like Trump and this Chris. We’ve got you. And that’s better. Let’s get to November and win.</strong></a> <br />
+
+
+
+      
+        
+        </mj-text>
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Sincerely,<br/><b>Mary Rutigliano</b><br />
+           <i>Finance Director</i>
+</p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.republican.emails?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.republican.emails?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.republican.emails?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.republican.emails?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.republican.emails?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.republican.emails?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

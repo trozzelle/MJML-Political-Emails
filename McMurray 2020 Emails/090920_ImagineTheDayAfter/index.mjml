@@ -1,0 +1,71 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b><br />
+        
+          Imagine it’s the day after the General Election. How do you want to feel that day? Elated? Hopeful? Upset? Did you leave it all on the field? Imagine you don’t get the outcome you’d wanted. What will you wish you’d done to change the outcome? <br /><br />
+
+         <i><strong>We need you to do that now.</strong></i><br /><br />
+
+Sometimes it’s overwhelming to know what to do. Let us give you some suggestions.<br /><br />
+
+          <strong>
+            <p>1.</strong> <a href="https://secure.actblue.com/donate/nmm091020_dayafter"><strong>You can donate here</strong></a>. Small dollar contributions keep keep us going. For a couple of bucks, you can make sure we're able to get our commercials on air just in time for it to really count. Unlike Chris #3, I'm not bankrolled by a family of billionaires. I have <i>you</i>, our grassroots army that we've built with elbow grease and shoe leather for the last 1,000 days. <a href="https://secure.actblue.com/donate/nmm091020_dayafter"><strong>If you have the means to help, please do.</strong></a><br /><br /></p>
+
+            <p><strong>2.</strong> You can get trained to volunteer and <a href="http://votemcmurray.com/donate"><strong>sign up here.</strong></a> We need to reach as many voters as we can in NY-27, not just for our race but for every Democratic candidate running up and down the ballot. There’s a powerful movement growing out of our region ready to stamp out not just Trump but “Trumpism” as a whole. I need you to help us bring more people into the fold. <br /><br /></p>
+          
+            <p><strong>3.</strong> We need <strong>You Plus 2!</strong> I need you to commit to getting three people to vote by election day: you and two of your friends who might not otherwise vote. Make sure they request their absentee ballots. Drive them to the polls if you have to! We are <i>this close</i>. We don't need to go 10,000 miles, the finish line is a couple hundred feel away.<br /></br></p>
+          
+        It's clear that we can't trust the President, his administration, or his enablers in Congress. Help us drain the actual swamp and demand integrity from a new coalition of leaders in Washington: <a href="https://secure.actblue.com/donate/nmm091020_dayafter"><strong>Biden, McMurray, and others willing to do what's right for the American people.</strong></a>
+
+        
+        </mj-text>
+      <mj-button background-color="#202658" width="350" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="20px" href="https://secure.actblue.com/donate/nmm091020_dayafter?express_lane=true&amount=100&refcode=express_lane_100">YES! I'll give $5 to the fight  →</mj-button>
+      
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Stay well,<br/><b>Team McMurray</b></p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091020_dayafter?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091020_dayafter?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091020_dayafter?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091020_dayafter?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091020_dayafter?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091020_dayafter?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>       <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

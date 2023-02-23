@@ -1,0 +1,35 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/mcmurray_staff20?refcode=Bari" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>Yards don't vote – people do, but we know how energizing it is to see signs in our neighbors' yards. It means that we're all a part of something bigger. Now's the time to show your support for Nate AND remind your neighbors to VOTE EARLY!<br /><br />
+        </mj-text>
+        <mj-image width="300px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMM_Oct20LawnSignv2.jpg"></mj-image>
+        
+                <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+                  
+                 Lawn signs are only available at the moment to voters living within NY-27. Please enter your information below as well as your county of residence and either a member of our team or a member of your local county committee will be in touch.<br /><br />
+                  
+                  Thank you for your support! Let's win this!<br />
+                  <strong>Team McMurray</strong>
+
+</p><br /><br /></mj-text>
+     
+      
+      </mj-column>     </mj-section> 
+  
+  </mj-body>
+</mjml>

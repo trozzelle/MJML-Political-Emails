@@ -1,0 +1,135 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/nmm091120_buildingtrades" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" line-height="1.2" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br />
+        
+          <strong>BIG NEWS!!!</strong> Our campaign just received the endorsement of the Buffalo and Niagara Building and Construction Trades Councils. They represent laborers across WNY from electricians to plumbers to ironworkers and beyond, and they know making sure they can provide for themselves and their families is important to me. <a href="https://secure.actblue.com/donate/nmm091120_buildingtrades"><strong>Will you chip in to back a pro-Labor candidate today?
+            </a></strong>
+
+
+          </mj-text>
+        
+        <mj-image href="https://secure.actblue.com/donate/nmm091120_buildingtrades" width="400px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMM_BuildingTrades_Endorsementv2.jpg"></mj-image>
+        </mj-column>
+    </mj-section>
+   
+  
+     <mj-section padding-top="10px" background-color="#fff" padding-left="20px" padding-bottom="0px">
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" line-height="1.2" font-size="16px"> 
+       This endorsement is particularly meaningful to me as my father was a member of the Painters Union. The union provided stability and security for our family, which made a big difference when times were tough. A strong organized labor force means better healthcare, better wages, and greater economic growth in our region. At a time when workers and their families are facing unprecedented insecurity, Trump and his cronies are attacking the AFL-CIO and weakening the National Labor Relations Board.  <br /><br />
+          
+          
+          </mj-text>
+        <mj-button background-color="#202658" width="500" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="15px" padding-bottom="25px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?express_lane=true&amount=100&refcode=express_lane_100">Say NO to another union-busting billionaire →</mj-button>
+ <mj-text font-family="Arial" line-height="1.2" font-size="16px"> 
+   You must know by now that my opponent votes in lockstep with Trump - and they care only about profit. <a href="https://secure.actblue.com/donate/nmm091120_buildingtrades"><strong>NY-27 can't afford another crony Chris desperate to win favor with the President at Labor’s expense.</strong></a> <i>Unemployment in the Buffalo-Niagara region is the highest it has been since the steel mills closed, and what have they done?</i> <br /><br />
+
+   The surge in Democratic organizing we’ve seen these past few years continues to grow, and we’re turning heads nationally. We MUST keep the momentum up to November. <a href="https://secure.actblue.com/donate/nmm091120_buildingtrades"><strong>{{FirstName or 'Friend'}}, can I count on you to help us get there?</strong></a>
+
+
+           <br />
+        
+        </mj-text>
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+         <mj-button padding-top="15px" padding-bottom="15px" background-color="#202658" width="500" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?express_lane=true&amount=100&refcode=express_lane_100">YES! I'll send $5 to protect labor rights  →</mj-button>
+ <mj-text font-family="Arial" font-size="16px" line-height="1.2"> 
+      
+          Your support means the world to me. I know we can win, we are so close, but we can’t do it without you. <br />
+          <p style="line-height: 1.2;font-size: 16px;">All my best,<br/><b>Nate McMurray</b><br /><br />
+            
+            P.S. Check out a full list of our endorsements below! <br /><br />
+             </mj-text>
+   <mj-text font-family="Arial" font-size="16px" line-height="1.2"> 
+<center>
+
+AFL-CIO (NYS, WNY, and Rochester & Genesee Valley Area Federations)<br />
+American Federation of State, County and Municipal Employees NY Council 66<br />
+American Federation of Teachers<br />
+American Postal Workers Union<br />
+Buffalo Teachers Federation<br />
+Buffalo Building and Construction Trades Council<br />
+Communication Workers of America<br />
+International Alliance of Theatrical Stage Employees Local 121<br />
+International Association of Machinists and Aerospace Workers District 15<br />
+International Union of Painters and Allied Trades DC4<br />
+National Association of Letter Carriers Branch 3<br />
+National Education Association<br />
+Niagara Building and Construction Trades Council<br />
+New York State Unified Teachers<br />
+New York State Nurses Association<br />
+Public Employees Federation<br />
+Retail Wholesale and Department Store Union Local 139<br />
+Service Employees International Union 1199<br />
+United Food and Commercial Workers<br />
+Teamsters Joint Council 46<br /><br />
+
+Lieutenant Governor Kathy Hochul<br />
+Senator Chuck Schumer<br />
+Senator Kisten Gillibrand<br />
+Congressman Brian Higgins<br />
+Congressman Joe Morelle<br />
+NY State Senator Tim Kennedy<br />
+Presidential Candidate Andrew Yang<br /><br />
+
+Brady PAC<br />
+Humanity Forward<br />
+League of Conservation Voters Action Fund<br />
+The League of Humane Voters<br />
+National Organization for Women PAC<br />
+National Institute of Reproductive Health<br />
+New York Immigration Coalition<br />
+Peace Action NYS<br />
+Persist Brooklyn<br />
+Planned Parenthood PAC<br />
+Sierra Club<br />
+Social Security Works PAC<br />
+Stonewall Democrats
+</center>
+
+            
+           </p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm091120_buildingtrades?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

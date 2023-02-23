@@ -1,0 +1,71 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/102420_commercial" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>There's just 8 days until the election, and Early Vote is in full swing, so I won't bury the lede: Our second commercial is launching because our union supporters HAD to say something about the danger of electing Chris Jacobs. The stakes are too high this year. Watch our new commercial, then <a href="https://secure.actblue.com/donate/102420_commercial"><strong>chip in $7, $27, $57, or even $107 to help us share their message!</strong></a>
+          
+         
+
+<br />
+          </mj-text>
+         <mj-image width="350px" href="https://secure.actblue.com/donate/102420_commercial" width="500px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/SecondCommercial_UnionEndorsed_Thumbnail.png">
+     </mj-image><mj-text align="center" padding-top="0px">Click to watch!</mj-text>
+
+
+<mj-text font-family="Arial" font-size="16px" padding-bottom="0"> You must’ve seen how lines wound around polling places all across NY-27 (and the country). The fact that our campaign is competitive in such a heavy Republican district is a testament to YOU and the movement we've created together. Early voting takes place for six more days! That’s lots of time to turn out Nate supporters in NY-27.<br /><br />
+
+  <a href="https://secure.actblue.com/donate/102420_commercial"><strong>Your donation will help us reach Nate supporters during early voting. Can we count on you?</strong></a><br /><br />
+
+Our movement has fought for real representation against millionaire Republicans named Chris—because we know our children, farmers, firefighters, auto workers, seniors, and everyone trying to build a life in Western New York deserves more. Nate will fight for Social Security, Medicare, and good jobs for the families of NY-27. We believe in this historic moment that love will defeat hate, truth will defeat lies, and our country will turn the page to a better tomorrow. In sum, we believe in Nate.<br /><br />
+
+  Can you <a href="https://secure.actblue.com/donate/102420_commercial"><strong>help us keep Nate’s message on the air?</strong></a>
+
+  <p style="line-height: 1.2;font-size: 16px;">Forward together,<br /><strong>Team McMurray</strong><br/>
+  </p></mj-text>
+     
+      
+      </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/102420_commercial?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/102420_commercial?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/102420_commercial?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/102420_commercial?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/102420_commercial?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/102420_commercial?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <br />
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p><strong><i>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</i></strong></p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+     <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

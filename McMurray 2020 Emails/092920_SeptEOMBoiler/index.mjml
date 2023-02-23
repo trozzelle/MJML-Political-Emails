@@ -1,0 +1,73 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          {{FirstName or 'Friend'}},<br /><br /></b>Let me tell you - we’ve got just under 36 hours left until our quarterly deadline. And we’re setting an ambitious goal - we need to raise $15,000. The end of the Third Quarter is the biggest deadline in politics. Let me tell you why:<br /><br />
+<ul>
+  
+  <li><strong>Our Q3 totals show our strength as a campaign</strong> - we’ve consistently outpaced Jacobs AND Collins when it comes to <i>local grassroots donors.</i> It shows that we’re the ones listening to and talking with constituents.<a href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM"><strong>Will you forward this email to three people or share this link to your social media</a>, describe why you support Nate, and ask folks to pitch in?</strong></li><br />
+
+  <li><strong>The national Dems are watching --</strong> They’ve got limited resources to invest nationwide, and they’re more likely to have our back if we can show just how many folks <a href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM"><strong>chipped in to defeat this guy.</strong></a> 
+</li> <br />
+
+  <li><strong>We need to get Nate on TV.</strong> Voters need to hear Nate’s message for NY-27 amid all the GOP scare tactics. Like a lot of us, Nate knows what it’s like to struggle to pull yourself up in a working class family, especially when something out of your control goes wrong. He knows what it’s like to work to pay your own way. Jacobs doesn’t, and what’s more -- he doesn’t care.<strong>This election is more than Democrat vs. Republican. <a href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM">It’s who has the life experience to really represent our region vs. who’s just advancing a career.</strong></a></li>
+          </ul>
+
+        </mj-text>
+      
+ 
+                  <mj-text font-family="Arial" font-size="16px" padding-top="20px" padding-bottom="0"> 
+                    When we wake up on October 1st, we’ll sleep in a little and sip our morning coffee. We'll be proud that we did everything in our power to get Nate on TV to show Chris Jacobs and the National Party that <a href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM"><strong>WE CAN WIN. Please consider supporting our fight for healthcare, jobs, and good government. We need you.</a></strong> 
+
+ <br /><br />
+
+
+        </mj-text>
+     <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>
+           <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM?amount=5">Donate Other Amount →</mj-button> 
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> <br />
+          <p style="line-height: 1.2;font-size: 16px;">We couldn't be more grateful,<br/><b>Team McMurray</b><br />
+</p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        
+        <mj-image href="https://secure.actblue.com/donate/mcmurray2020?refcode=EOM" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/118225572_3520461034633290_5511934479657811947_n.jpg"></mj-image>
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

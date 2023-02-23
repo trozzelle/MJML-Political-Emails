@@ -1,0 +1,92 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    
+        <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%">
+        
+       <mj-text font-family="Arial" font-size="16px" padding-bottom="0">
+         {{FirstName or 'Friend'}} , I just wanted to make sure that you had seen the personal fundraising program we're running for our strongest supporters in NY-27. If you donate $50 or more before midnight tomorrow, you'll receive a lawn-sign hand-signed by Nate (with a design to remind all of your neighbors to VOTE EARLY!<br /><br />
+         <strong>Team McMurray</strong><br /><br /><br />
+
+---------- Forwarded message ---------<br />
+         From: <strong>Team McMurray</strong> <info@votemcmurray.com><br />
+Date: Sun, Sep 27, 2020 at 7:36 PM<br />
+Subject: Be the first to get a NEW McMurray lawn sign <br />
+To: Torin Rozzelle <torinadamrozzelle@gmail.com><br /><br />
+
+        </mj-text>
+          </mj-column>
+    </mj-section>
+    
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>
+        
+         We have lawn signs! And while we’ll do a larger roll out at the beginning of October, we wanted to let you in on a special fundraiser we’re doing. If you donate $50 before Tuesday, September 29 you will receive a McMurray lawn sign that has Nate’s signature!
+        </mj-text>
+          <mj-image src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMM092720_LawnSignsSigning.jpg"></mj-image>
+                  <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+                    We’re nearing the most important deadline of the whole cycle - the end of September. <strong>We need to get Nate on TV.</strong> You’re one of our most surefire supporters. And while we know that our victory will be the best reward, we can’t resist giving you a little somethin’ in the meantime for your kind support. 
+<br />
+
+          </mj-text>
+        
+     <mj-button background-color="#202658" width="350" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="25px" padding-bottom="25px" href="https://www.mobilize.us/persistbrooklyn/event/313381/">Yes! I’ll donate $50 to receive a lawn sign with Nate’s signature!
+  →</mj-button>      
+        
+        <mj-text font-family="Arial" font-size="16px"> 
+       
+         Thanks for being one of our most ardent supporters. All of us here are bringing change to Western New York one bit at a time. We’re glad to have you with us. </a> <br />
+
+
+
+      
+        
+        </mj-text>
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Sincerely,<br/><b>Team McMurray</b><br />
+</p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092720_eomlawnsigns?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

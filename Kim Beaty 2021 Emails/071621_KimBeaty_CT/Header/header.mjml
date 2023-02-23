@@ -1,0 +1,6 @@
+<mj-section padding-bottom="0px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-image href="https://secure.actblue.com/donate/your-candidate-actblue" src="https://i.postimg.cc/rmw0d5Cj/Fundraiser-Demo-Logo.png" width="400px"></mj-image>
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>
+      </mj-column>
+</mj-section>

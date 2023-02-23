@@ -1,0 +1,76 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/nmm092820_afl-cio" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>
+        
+          I’m grateful that in 2018 organized labor had our back against Chris Collins, and I’m even prouder to know that an even larger coalition is standing with us in 2020. One of our campaign’s biggest allies, one of the heroes of labor in WNY, has been Richard Lipsitz, President of the Western New York Area Labor Federation, AFL-CIO. I’m the only NY-27 Congressional candidate to earn this much labor support in years.<a href="https://secure.actblue.com/donate/nmm092820_afl-cio"><strong>Will you chip-in for the candidate that fights for labor rights, worker protections, and a fair deal for the working class?</strong></a><br /><br />
+
+          <a href="https://secure.actblue.com/donate/nmm092820_afl-cio"><strong>We filmed this endorsement video where President Lipsitz talks about why our race in NY-27 is so important:</strong></a>
+
+        </mj-text>
+          <mj-image width="350px" href="https://secure.actblue.com/donate/nmm092820_afl-cio" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMM_092820_Lipsitz.jpg"></mj-image>
+        <mj-text align="center">"We don't hesitate. We want Nate to win and we're working<br />as hard as we can to make sure that becomes a reality"</mj-text>
+                  <mj-text font-family="Arial" font-size="16px" padding-top="20px" padding-bottom="0"> 
+                    Just as President Lipsitz says, I <u>am</u> with labor on the important issues they have always fought for. That means when I get to Washington, I will fight <u>every day</u> for a good deal for unions, to support and strengthen Medicare, and to protect Social Security. And I will stand up for affordable, quality health insurance for everyone, including pre-existing conditions. The COVID-19 pandemic really brings home for all working families the need in this country for everyone to have access to affordable health care. 
+<br />
+
+          </mj-text>
+        
+     <mj-button background-color="#202658" width="350" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="25px" padding-bottom="25px" href="https://secure.actblue.com/donate/nmm092820_afl-cio">NY-27 needs a candidate who will fight for labor
+  →</mj-button>      
+        
+        <mj-text font-family="Arial" font-size="16px"> 
+          I grew up in a union family. My dad, my uncle, and my brother all reaped the benefits of our modern labor movement and <i>they stood on the picket line when things got tough.</i> I think of them every time I stand alongside striking workers. It’s important to me that we protect regular people, not corporations, like the last two NY-27 Congressmen named Chris did and the current NY-27 Chris is doing right now. <br /><br />
+
+          I’m not a millionaire--the working people of WNY and I need your help if we’re going to get to Washington. <a href="https://secure.actblue.com/donate/nmm092820_afl-cio"><strong>Can you invest $27 in our district today? It will pay dividends when we have a representative who cares for working people.</strong></a> <br /><br />
+
+
+        </mj-text>
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Yours in this fight,<br/><b>Nate McMurray</b><br />
+</p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092820_afl-cio?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092820_afl-cio?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092820_afl-cio?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092820_afl-cio?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092820_afl-cio?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm092820_afl-cio?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,154 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>
+        
+          <p>We hope this finds you and your families safe and healthy. These times we’re facing are asking the most of us - personally, professionally, and within our communities.
+
+</p>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#edf0f7" padding-top="0" padding-left="20px" padding-bottom="0px">	
+      <mj-column width="100%"> 
+         
+        <mj-text font-family="Arial" font-size="16px">
+               <br /><center><b>A Note From Nate</b></center>    <br />
+
+          The past few months we’ve seen lots of unrest - millions of Americans are calling for justice, and notably so this past week in Rochester where many residents of NY-27 work, have family, attend school, and spend much of their time. This time we are crying out for justice right here in our own community. More than five months after Rochester Police officers murdered a 41-year-old Black man, Daniel Prude, we have just learned much more about the circumstances of what led to his death. We are outraged, we want answers, and we want change.<br /><br />
+</mj-text>
+<mj-image width="450px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/nmm_090720_prude_twitter.png"></mj-image>
+         <mj-text font-family="Arial" font-size="16px">
+
+Recently, I was honored to receive the endorsement of Persist Brooklyn. The support from NYC is meaningful because they recognize the importance of our whole state having representation that cares about working people, not just the typically blue areas. <br /><br />
+           </mj-text>
+        <mj-image width="350px" href="https://secure.actblue.com/donate/mcmurray.persist" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/nmm_persist_brooklyn2.png"></mj-image>
+                <mj-text font-family="Arial" font-size="16px">
+
+
+Today is Labor Day. I hope you’re able to rest today and reflect on what the labor movement has won for us. Things we take for granted like the weekend, overtime, paid leave, child labor laws were fought for with protests, strikes, and uprisings. It gives me confidence that our movements today use tactics and inspiration from those important fights. It helps me know that we will win.<br /><br /> 
+
+In my candidacy for NY-27, I’ve earned the endorsement and the trust of many local labor organizations. My father was in the Painters Union before he passed away at 39. Even then, it was clear what a difference having a union job made for my parents and six siblings. I promise to center my efforts in Congress on workers, their healthcare, and their struggles when I’m elected. <br /><br />
+
+
+        </mj-text>
+          
+      </mj-column>
+        
+    </mj-section>
+    <mj-section background-color="#FFF" padding-top="0" padding-left="20px" padding-bottom="0px">	
+      <mj-column width="100%"> 
+       
+        <mj-text font-family="Arial" font-size="16px"> 
+                        <br /><center><b>Campaign Update</b></center>    <br />
+
+          <p>The NY-27 Grassroots Network is in full swing. Want to write a letter to the editor, but need some inspiration? <a href="https://sites.google.com/view/grny27/letter-writing-campaign?authuser=0">You can join their letter writing campaign here.</a> Once you’re there, you can choose whether you’d like to direct your letter to a news outlet or our current Congressman. They’re advocating for USPS and need all the help they can get.
+</p> </mj-text>
+        <mj-image width="350px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/nmm090720_postcard.jpg"></mj-image>
+        </mj-column>
+    </mj-section>
+      
+   
+      
+    <mj-section padding-top="10px" background-color="#edf0f7" padding-left="20px" padding-bottom="0px">
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px"> 
+          <center><b>COVID-19</b></center>    <br />
+          <p>These days, the news is mixed: New York’s Governor Cuomo advised this week that COVID-19 hospitalizations have dropped to the lowest number since March 16 when the state was the epicenter of the virus, and the state’s COVID-19 infection rate has been less than 1% for 30 straight days. But Western New York is reporting the highest infection rate in the state at 2% (Long Island reports 1.1%, and all other regions in the state are below 1%, according to the NYS’s metrics).  <br /><br />
+
+School districts are opening up, colleges and universities are cautiously welcoming students back onto campus under strict guidelines, while businesses continue phasing back into our lives. It is the biggest transition since the pandemic began, and remaining vigilant with masking and social distancing continues to be extremely important. I am so proud of how our community and our campaign continues to offer support where we can. Please contact us if you need. We are happy to help!
+
+
+</b> 
+</p> </mj-text>
+              </mj-column>
+    </mj-section>
+   <mj-section padding-top="10px" padding-bottom="20px" background-color="#fff" padding-left="20px" padding-bottom="0px">
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px"> 
+          <center><b>Election Update</b></center>    <br />
+          <p>  Only 57 days until Election Day! With the public health situation, the unprecedented difficulties being imposed on the U.S. Postal Service, and all the rest that this year has brought us, don’t wait to think through your voting plan. There are three ways to vote: <br /><br />
+            <ul>
+            <li>Vote Early in person - October 24 - November 1 (see links below for early voting hours and locations in NY-27 by county)</li>
+             <li>Vote By Mail - request an absentee ballot by mail up to October 27, and in person up to November 2. Absentee votes may be cast beginning September 18 (see link below for absentee ballot details)</li> 
+              <li>Vote Election Day, November 3 between 6 am - 9 pm.</li>
+            </ul><br /><br />
+            More information can be found at the following sites:<br /><br />
+            
+            <center>
+              NYS Board of Elections - <a href="https://www.elections.ny.gov/VotingDeadlines.html">https://www.elections.ny.gov/VotingDeadlines.html</a><br />
+            </center></p></mj-text>
+                <mj-text padding-bottom="0px" font-family="Arial" font-size="16px" line-height="1.2" align="center"> 
+
+<a href="https://www.elections.erie.gov/Early-Voting?AspxAutoDetectCookieSupport=1">Early voting locations in Erie County</a><br />
+              <a href="http://cms.revize.com/revize/geneseecountynew/EarlyVoting2020.pdf">Early voting locations in Genesee County</a><br />
+
+              <a href="https://www.livingstoncounty.us/1139/Early-Voting">Early voting locations in Livingston County</a><br />
+<a href="https://www.monroecounty.gov/elections-earlyvoting">Early voting locations in Monroe County</a><br />
+
+              <a href="https://elections.niagara.ny.us/2020/05/05/early-voting-june-23rd-2020-elections/">Early voting locations in Niagara County</a><br />
+
+              <a href="https://www.co.ontario.ny.us/107/Board-of-Elections">Early voting locations in Ontario County</a><br />
+<a href="https://orleanscountyny.com/wp-content/uploads/2020/07/Early-Voting-Hours-November-General.pdf">Early voting locations in Orleans County</a><br />
+            <a href="https://www.wyomingco.net/DocumentCenter/View/4352/Early-Voting-Hours-General-Election-2020?bidId=">Early voting locations in Wyoming County</a> <br />
+
+</p> </mj-text>
+     <mj-image width="350" href="https://secure.actblue.com/donate/nmm090720_campaignupdate" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/Vote_McMurray_Absentee_Logo.png"></mj-image>
+          </mj-column>
+    </mj-section>
+  
+     <mj-section padding-top="10px" background-color="#edf0f7" padding-left="20px" padding-bottom="0px">
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px"> 
+         <center><b>Join Us!</b></center>    
+          <p>Your grassroots support is critical to sending Nate to Congress! If you're interested in making calls from home, please <a href="https://www.mobilize.us/mobilize/event/309855/">click here to get started</a> or email <a href="mailto:hunter@votemcmurray.com">hunter@votemcmurray.com</a> for more information. <br /><br />We've got Zoom phone banks throughout the week where you can make calls alongside our staff, meet Nate supporters across the country, and show that YOU are committed to doing the work it takes to defeat corrupt Republican millionaires like Jacobs and Trump. We're spending every minute through election day putting the work in to win this, but we STILL NEED YOU. Email hunter@votemcmurray.com to get involved before it's too late!</p>
+           <br />
+        
+        </mj-text>
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Stay well,<br/><b>Team McMurray</b></p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="45%" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm090720_campaignupdate?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

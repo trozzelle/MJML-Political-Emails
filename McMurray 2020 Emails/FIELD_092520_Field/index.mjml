@@ -1,0 +1,82 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://www.mobilize.us/mcmurrayforcongress/event/324865/" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>
+        We’ve got a lot going on in these next 39 days to help get us across the finish line.<br /><br />
+
+          First, we have a <a href="https://www.mobilize.us/mcmurrayforcongress/event/324865/"><strong>Day of Action</strong></a> every Saturday from 1-3 PM, where our organizing team & volunteers send texts and make calls to voters across NY-27 to make sure everyone has a plan to cast their vote on or before November 3rd. Training is provided, so no experience is required!<br /><br />
+
+          If you can’t make it to that event, we have <a href="https://www.mobilize.us/mcmurrayforcongress/event/325001/"><strong>weekly phonebanks</strong></a> every Tuesday and Thursday from 5:30-7:30 PM. If you’ve never made phone calls with us before, you can join us at these events for a training before we make calls together via Zoom.<br /><br />
+
+          Already been trained and just want to make calls on your own time? Not a problem! <a href="https://www.mobilize.us/mcmurrayforcongress/event/309855/"><strong>You can start making calls</strong></a> now or schedule a time in the future to make calls for us. <br /><br />
+
+{{FirstName or 'Friend'}}, there is so much work to be done before November 3rd. But if we all come together to do the heavy lifting now, we’ll finally cross the finish line victorious. Are you with us?<br /><br />
+
+
+
+</p>
+          </mj-text>
+      <mj-button background-color="#d8021a" width="350" height="55px" inner-padding="5px" font-weight="600" font-size="18px" font-family="Arial" padding-top="10px" href="https://mobilize.us/mcmurrayforcongress">I'm with you! Sign up here →</mj-button>
+        </mj-column>
+    </mj-section>
+   
+  
+     <mj-section padding-top="10px" background-color="#fff" padding-left="20px" padding-bottom="0px">
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px"> 
+       
+         Thanks for fighting hard for Nate so he can get to Washington and fight just as hard for you.
+<br /><br />
+         
+        
+        </mj-text>
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text padding="0 25px"> 
+          <p style="line-height: 1.2;font-size: 16px;">Onward, <br />
+Team McMurray
+
+</p></mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.poll.fund?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.poll.fund?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.poll.fund?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.poll.fund?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.poll.fund?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray.poll.fund?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

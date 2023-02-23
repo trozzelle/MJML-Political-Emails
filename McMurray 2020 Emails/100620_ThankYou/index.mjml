@@ -1,0 +1,62 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/mcmurray2020" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>I have some exciting news, and some heartfelt thanks to share. Thanks to you and others in our movement, we <strong>surpassed our end-of-quarter goal!</strong> I know I ask a lot of you, and it’s because in order to win, we need to not only sustain this momentum, but continue to expand and increase it.. We had thousands of small dollar donors, like yourself. Our movement is unlike any other. When I reflect on how close we are to giving hundreds of thousands of hard-working people the representation they deserve, I'm left humbled, proud, and energized for the last 29 days.<br /><br />
+
+This is the final stretch. We’ve come so far. Democrats, Independents, and even Republicans have organized for honest, accountable government. We’ve had two millionaires named Chris in this congressional seat. Now, a third is trying to convince us he’s the guy for the job. It's clear that he's a Trump extremist, willing to do and say anything (including attending rallies that threaten violence against the Governor) to advance his personal interests.<br /><br />
+
+We’ve worked for years to get here, and I’m blessed to have a community of friends, family, mentors, teachers, union supporters, volunteers, and grassroots supporters who have delivered us to this moment. I consider you a part of the core of that group. Chris Jacobs was born with a net worth most of us couldn’t dream of, and he’s only gotten richer. He can’t understand how you and I live, how we raise our families, and how hard we've worked to retire with dignity.<br /><br />
+
+          People who have lives like most of us, who work and pay their way through school, who have been contributing to their family’s grocery money since their first paycheck - that’s who I’m fighting for. Western New York has suffered under wealthy, politically-focused opportunists for decades.. <strong>It’s time we had a representative who knows the working class and will fight like hell to protect them and improve their lives.</strong><br /><br />
+
+My thanks could never be enough for all you’ve done, but thank you. We’ve got one month left. I ask you to dig deep, think about why you’ve joined our movement, and imagine how good it’s going to feel when we win—together.
+<br />
+
+          <p style="line-height: 1.2;font-size: 16px;">With thanks and hope,<br/><b>Nate McMurray</b><br />
+</p><br /><br /></mj-text>
+      <mj-image href="https://secure.actblue.com/donate/mcmurray2020" width="500px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/Grassroots.jpg">
+        </mj-image>
+      
+      </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/mcmurray2020?amount=5">Donate Other Amount →</mj-button> 
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

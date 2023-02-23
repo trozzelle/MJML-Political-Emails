@@ -1,0 +1,85 @@
+<mjml> 
+  <mj-head> 
+    
+  <mj-style>
+     
+    </mj-style>
+  </mj-head> 
+  <mj-body background-color="#fff" width="700px"> 
+    <mj-raw> 
+      <!-- Header -->    </mj-raw> 
+    <mj-section padding-bottom="0px" background-color="white"> 
+      <mj-column width="100%"> 
+        <mj-image href="https://secure.actblue.com/donate/nmm093020_republicanrally" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/NMFCLogo.png" width="300px"></mj-image> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section padding-top="10px" background-color="#FFF" padding-left="20px" padding-bottom="5px"> 
+      <mj-column width="100%"> 
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+          <p>{{FirstName or 'Friend'}},<br /><br /></b>U.S. Congressman Chris Jacobs spoke alongside other Republican candidates this week at a right wing rally. Of course we all have a right to free speech, but how he chose to use that right was, well... disturbing. Among a crowd with no masks, Jacobs - born into one of the richest families in the country - actually cast dire warnings against The Elite ruling over our lives. <a href="https://secure.actblue.com/donate/nmm093020_republicanrally"><strong>This guy, right?</strong></a> <br /><br />
+        
+          The organizers hung Governor Cuomo in effigy and cheers rang out as a young teen beat it with a fake rifle. I don’t always agree with the Governor, but I’ve never expressed that by simulating a lynching and our elected officials shouldn’t either. This behavior is un-American and it’s scary. We knew that this Chris was another Trump follower, but this is a shocking new low. We need you to chip in. <a href="https://secure.actblue.com/donate/nmm093020_republicanrally"><strong>We can’t let this guy speak for us.</strong></a>
+
+
+        </mj-text>
+        
+         <mj-image href="https://secure.actblue.com/donate/nmm093020_republicanrally" width="150px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/cuomo_gif_compressed.gif"></mj-image>    
+        <mj-text align="center">"Guilty!" the crowd shouted</mj-text>
+                  <mj-text font-family="Arial" font-size="16px" padding-top="20px" padding-bottom="0"> 
+                    Despite his admonishments of The Elite, Chris Jacobs continues to fight against the working people of NY-27. Whether it's because he comes from one of the richest families in America or whether it's because he's shamelessly bowed to the Trump agenda, Jacobs is already continuing a long tradition of absenteeism, self-service, and misrepresentation in NY-27. <a href="https://secure.actblue.com/donate/nmm093020_republicanrally"><strong>We can do better. We need to.</strong></a><br /><br />
+                    </mj-text>
+        
+        <mj-image href="https://secure.actblue.com/donate/nmm093020_republicanrally" width="400px" src="https://nvlupin.blob.core.windows.net/images/van/NGP/NGP10/1/80962/images/JacobsCuomoChannel2.jpg"></mj-image>
+                <mj-text align="center">Channel 2's coverage of the INSANE rally</mj-text>
+
+        <mj-text font-family="Arial" font-size="16px" padding-bottom="0"> 
+
+          Jacobs is a millionaire - he’s put hundreds of thousands of his own dollars into his campaign. What’s the last thing you spent hundreds of thousands on? We’re a grassroots, blue collar campaign through and through and we’re so glad you’re with us. Voters in every corner of this district have to hear Nate’s message - the good news is, TV/radio air time is relatively cheap! <a href="https://secure.actblue.com/donate/nmm093020_republicanrally"><strong>Will you pitch in a few dollars to get us there?</strong></a>
+
+ <br /><br />
+
+
+        </mj-text>
+       <mj-text align="center" font-style="italic"> <span font-style="italic">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</span> </mj-text>     </mj-section> 
+    <mj-section padding-top="0"> 
+      <mj-group> 
+        <mj-column> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm093020_republicanrally?amount=250">Express Donate $250 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm093020_republicanrally?amount=100">Express Donate $100 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm093020_republicanrally?amount=72">Express Donate $72 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm093020_republicanrally?amount=27">Express Donate $27 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm093020_republicanrally?amount=5">Express Donate $5 →</mj-button> 
+          <mj-button background-color="#202658" width="250px" font-weight="600" font-size="16px" font-family="Arial" padding-top="0px" href="https://secure.actblue.com/donate/nmm093020_republicanrally?amount=5">Donate Other Amount →</mj-button>         
+                    </mj-column>     </mj-section> 
+    <mj-section background-color="#fff" padding-left="20px" padding-top="0px"> 
+      <mj-column > 
+        <mj-text font-family="Arial" font-size="16px" padding="0 25px">          
+We’ve already been through two other silver-spoon, absentee guys named Chris trying to sow division and buy this seat. The third time is clearly not the charm. <br /><br />
+
+We’re so close. <br /><br />
+
+Best,<br />
+          <strong>Team McMurray</strong><br /><br />
+
+
+          P.S. Want to really dig in? <a href="www.mobilize.us/mcmurrayforcongress">Sign up to make some calls to voters in the district and tell them why it’s so important we defeat this guy.</a>
+
+         </mj-text>       </mj-column>     </mj-section> 
+    <mj-section padding="0px"> 
+      <mj-column> 
+        <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" border-width="1px" border-color="lightgrey" width="20%"></mj-divider>       </mj-column>     </mj-section> 
+    <mj-section> 
+      
+          <mj-text> 
+            <p> 
+              <center>If you'd prefer to send a check, please make it payable to <em>"Nate McMurray for Congress"</em> and mail to:</p><p>McMurray for Congress<br />PO Box 161<br />Lewiston, NY 14092</p>
+            </p>
+            </center>         </mj-text>       </mj-column>         </mj-group>                 </mj-section> 
+    <mj-raw>      
+      <!-- Editor -->    </mj-raw>     <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">       <mj-column>       </mj-column>     h  <mj-column>         <mj-social mode="horizontal">           <mj-social-element name="twitter-noshare" icon-size="40px" background-color="#202658" href="https://twitter.com/Nate_McMurray"></mj-social-element>           <mj-social-element name="instagram-noshare" icon-size="40px" background-color="#202658" href="https://www.instagram.com/votemcmurray/"></mj-social-element>           <mj-social-element name="facebook-noshare" icon-size="40px" background-color="#202658" href="https://www.facebook.com/nate.mcmurray27/"></mj-social-element>         </mj-social>       </mj-column>       <mj-column>   </mj-column>     </mj-section>  
+      <mj-section padding-top="0px">
+      	<mj-column>
+        <mj-text align="center" line-height="2">{{OrganizationAddress}}<br />{{Dislaimer}}<br />{{UnsubscribeLink}}</mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
